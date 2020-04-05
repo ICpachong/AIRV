@@ -2,7 +2,7 @@
 AIRV(The most cost-effective and artistic K210 open source hardware)
 
 # DOC
-https://dev.widora.io/zh/airv
+https://wiki.widora.cn/airv
 
 # QQ Group
 242127577
@@ -11,4 +11,4 @@ https://dev.widora.io/zh/airv
 https://t.me/widora
 
 # PIC
-![airv](https://dev.widora.io/_media/zh/zong.jpg)
+![airv](https://wiki.widora.cn/_media/zh/zong.jpg)
